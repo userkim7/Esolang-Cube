@@ -3,12 +3,12 @@ Brainfuck but Pocketcube
 
 GPT made, so needs a few check
 
-#   +-
-#   ><
-# ]-[]+[,.
-# ,<.,>.][
-#   +-
-#   ><
+\   +-
+\   ><
+\ ]-[]+[,.
+\ ,<.,>.][
+\   +-
+\   ><
 
 # How does it works.
 
